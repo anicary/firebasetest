@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1031515087791",
+    "firebase_url": "https://fbasetest-7ec3d.firebaseio.com",
+    "project_id": "fbasetest-7ec3d",
+    "storage_bucket": "fbasetest-7ec3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031515087791:android:3e6caa065b32d2d0",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.firebasetesting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031515087791-b41igm77t54n95qijujkk40jcpv6iqhg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.edu.ittepic.firebasetesting",
+            "certificate_hash": "b86f7b6332084480d8f362d80c9edae53776630a"
+          }
+        },
+        {
+          "client_id": "1031515087791-69hgh69lhe45c9rcu16jk8q8a686b3co.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOlswQAha0xnvHO5g_9PIjJ3MtRENp9S4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031515087791-69hgh69lhe45c9rcu16jk8q8a686b3co.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
